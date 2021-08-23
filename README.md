@@ -28,7 +28,7 @@ Project is created with:
 * Python 3.9.6
 * PyCharm Community Edition 2021.1.2 x64
 ## Setup
-To run this project in RStudio:
+To run this project in PyCharm:
 ```
 Download .zip
 Execute main file
